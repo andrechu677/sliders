@@ -14,7 +14,7 @@
         },
 		{
 					"url": "https://raw.githubusercontent.com/andrechu677/sliders/main/image-royal138/royal138_banner_4.jpg",
-					"alt": "Komisi harian"
+					"alt": "Komisi setiap hari"
 		}
 	]
 }
