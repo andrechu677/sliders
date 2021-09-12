@@ -1,19 +1,19 @@
 {
 	"items": [
 		{
-					"url": "https://52.77.164.45/Content/Web/common/images/catch/f9d41e031f694742814e69201531332d.jpg",
+					"url": "http://139.59.219.224/wp-content/uploads/2021/09/sloteace99-1.jpg",
 					"alt": "Promo PSBB"
 		},
 		{
-					"url": "https://52.77.164.45/Content/Web/common/images/catch/404c822a5588476f9d276746fbcdb6ab.jpg",
+					"url": "http://139.59.219.224/wp-content/uploads/2021/09/sloteace99-2.jpg",
 					"alt": "Komisi Game dibagikan setiap minggu"
         },
 		{
-					"url": "https://52.77.164.45/Content/Web/common/images/catch/4a2f100a78fb49d3a59fe241208e60f0.jpg",
+					"url": "http://139.59.219.224/wp-content/uploads/2021/09/sloteace99-3.jpg",
 					"alt": "Welcome Bonus"
         },
         {
-					"url": "https://52.77.164.45/Content/Web/common/images/catch/43cfafb990914decae4deea72c966b0e.jpg",
+					"url": "http://139.59.219.224/wp-content/uploads/2021/09/sloteace99-4.jpg",
 					"alt": "Langkah deposit mudah dan cepat"
         }
 	]
