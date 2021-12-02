@@ -1,12 +1,8 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/NAl9FaMIsw4lOr0Ss9GZHNSG0vXgYIXj4CMvavjO.jpeg",
-      "alt": "Promo PSBB"
-    },
-    {
-      "url": "https://files.sitestatic.net/banners/SH1ZeFQ2G0nlnaq7IFhnXdbDpbzgcxMqQ25NhDYo.jpeg",
-      "alt": "Deposit Via Pulsa"
+      "url": "https://files.sitestatic.net/banners/H5GrbFfshB86ato7g0QhY02Ao1UKnKMk44KFqihz.jpeg",
+      "alt": "Joker Gaming"
     },
     {
       "url": "https://files.sitestatic.net/banners/1611748760_sliding-3.jpg",
