@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/96m0T5NAXIDkRTUW1PeClM8MlzniQ9iHjZYO5UvJ.jpeg",
-      "alt": "Promo PSBB"
+      "url": "https://files.sitestatic.net/banners/xim1OUY2PtIjedhAIPAgjCJkYwsIadORaJirLHpU.jpeg",
+      "alt": "Jackpot Permainan Joker Gaming"
     },
     {
       "url": "https://files.sitestatic.net/banners/wApy3g1ku6Hb8xtH5iXa2hONB9giwXDX1Z41Arbl.jpeg",
