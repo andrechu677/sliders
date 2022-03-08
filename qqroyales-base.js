@@ -1,16 +1,16 @@
 {
 	"items": [
 		{
-					"url": "http://128.199.150.61/wp-content/uploads/2021/08/slider-1.jpg",
-					"alt": "Promo Slot BerhadiahUang Tunai"
+					"url": "https://139.162.25.106/Content/Web/common/images/catch/0fae7dcf3b9840a3871276a5b2af8539.jpg",
+					"alt": "Promo Maret Melimpah hadiah yang meriah"
 		},
 		{
-					"url": "http://128.199.150.61/wp-content/uploads/2021/08/slider-2.jpg",
-					"alt": "Deposit via pulsa"
+					"url": "https://139.162.25.106/Content/Web/common/images/catch/a2019a292ae148d78dc96ad3020c1a78.jpg",
+					"alt": "Rebate Komisi Mingguan"
         },
 		{
-					"url": "http://128.199.150.61/wp-content/uploads/2021/08/slider-3.jpg",
-					"alt": "Komisi setiap minggu"
+					"url": "https://139.162.25.106/Content/Web/common/images/catch/790428118a0942fbb879fbed592b9f62.jpg",
+					"alt": "Komisi setiap minggu dari qqroyal. Paling banyak bonusnya"
         }
 	]
 }
