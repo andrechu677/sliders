@@ -1,8 +1,8 @@
 {
 	"items": [
 		{
-					"url": "https://files.sitestatic.net/banners/61fe73da7fa13_slider.jpg",
-					"alt": "Cuan Februari"
+					"url": "https://files.sitestatic.net/banners/6223447547f7b_slider.jpg",
+					"alt": "Meriah maret Melimpah"
 		},
 		{
 					"url": "https://files.sitestatic.net/banners/61652035434fe_1.jpg",
