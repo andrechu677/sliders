@@ -1,8 +1,8 @@
 {
 	"items": [
 		{
-					"url": "https://slotace99cc.com/Content/Web/common/images/catch/0fe932160e8e4e218ee290348cf20a49.jpg",
-					"alt": "Promo Jumbo"
+					"url": "https://slotace99cc.com/Content/Web/common/images/catch/3992de3000da4fc59f2bbe8ede6f2ada.jpg",
+					"alt": "Promo Merdeka"
 		},
 		{
 					"url": "https://slotace99cc.com/Content/Web/common/images/catch/404c822a5588476f9d276746fbcdb6ab.jpg",
