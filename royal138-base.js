@@ -1,20 +1,20 @@
 {
 	"items": [
 		{
-					"url": "https://raw.githubusercontent.com/andrechu677/sliders/main/image-royal138/royal138_banner_1.jpg",
-					"alt": "Welcome bonus slot"
+					"url": "https://files.sitestatic.net/banners/6364ade378310_royal138.jpg",
+					"alt": "Promo November"
 		},
 		{
-					"url": "https://raw.githubusercontent.com/andrechu677/sliders/main/image-royal138/royal138_banner_2.jpg",
-					"alt": "Deposit via pulsa"
+					"url": "https://files.sitestatic.net/banners/62dbdc9eec90d_WEB-SLIDER.jpg",
+					"alt": "Komisi dibagikan setiap hari"
         },
 		{
-					"url": "https://raw.githubusercontent.com/andrechu677/sliders/main/image-royal138/royal138_banner_3.jpg",
-					"alt": "Sistem auto Deposit"
+					"url": "https://files.sitestatic.net/banners/62eb982cbe369_slider-welcome.jpg",
+					"alt": "Welcome bonus solot 100%"
         },
 		{
-					"url": "https://raw.githubusercontent.com/andrechu677/sliders/main/image-royal138/royal138_banner_4.jpg",
-					"alt": "Komisi harian"
+					"url": "https://files.sitestatic.net/banners/611ceb1d4c198_slider-bank.jpg",
+					"alt": "Didukung oleh sistem auto deposit"
 		}
 	]
 }
