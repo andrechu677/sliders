@@ -1,23 +1,20 @@
 {
 	"items": [
 		{
-					"url": "https://files.sitestatic.net/banners/6223447547f7b_slider.jpg",
-					"alt": "Meriah maret Melimpah"
+					"url": "https://files.sitestatic.net/banners/637c58ad7f519_slider-piala-duinia.jpg",
+					"alt": "Fifa Worldcup Piala Dunia Qatar"
 		},
-		{
-					"url": "https://files.sitestatic.net/banners/61652035434fe_1.jpg",
-					"alt": "Bonus Slot 100%"
-        },
 		{
 					"url": "https://files.sitestatic.net/banners/6165206dee4d5_2.jpg",
-					"alt": "Deposit Ewallet dan Pulsa"
+					"alt": "Deposit pakai pulsa, ewallet dan bank transfer"
         },
 		{
-					"url": "https://files.sitestatic.net/banners/61652098de661_3.jpg",
-					"alt": "Sistem Deposit otomatis dan tercepat"
-		},
-    { "url": "https://files.sitestatic.net/banners/616520aac4960_4.jpg",
-					"alt": "Komisi dibagikan setiap hari"
-    }
+					"url": "https://files.sitestatic.net/banners/6364b0a7d65db_squidgaming.jpg",
+					"alt": "Promo November total hadiah puluhan juta"
+        },
+		{
+					"url": "https://files.sitestatic.net/banners/62eb99a01f8fa_welcome.jpgg",
+					"alt": "Welcome bonus slot 100%"
+		}
 	]
 }
