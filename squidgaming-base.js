@@ -13,7 +13,7 @@
 					"alt": "Promo November total hadiah puluhan juta"
         },
 		{
-					"url": "https://files.sitestatic.net/banners/62eb99a01f8fa_welcome.jpgg",
+					"url": "https://files.sitestatic.net/banners/62eb99a01f8fa_welcome.jpg",
 					"alt": "Welcome bonus slot 100%"
 		}
 	]
