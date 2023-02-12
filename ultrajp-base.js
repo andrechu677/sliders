@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/6364cb4e1a27f_ultrajp.jpg",
-      "alt": "Promo November hingga 100juta"
+      "url": "https://files.sitestatic.net/banners/63ddc01c8d3e8_ultrajp.jpg",
+      "alt": "Promo FIESTA Februari Istimewa"
     },
     {
-      "url": "https://files.sitestatic.net/banners/6374d5fc6ad59_ultrajp.jpg",
-      "alt": "Fifa Worldcup 2022 Qatar"
+      "url": "https://files.sitestatic.net/banners/62eba8d772f53_ultrajpslider.jpg",
+      "alt": "Welcome bonus slot"
     },
     {
       "url": "https://files.sitestatic.net/banners/62a7087be6060_14%20(1).jpg",
-      "alt": "Swposit Pulsa ewallet dan bank transfer"
+      "alt": "Menerima Deposit Pulsa ewallet dan bank transfer"
     }
   ]
 }
