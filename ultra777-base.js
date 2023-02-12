@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/6364d050d9feb_ULTRA777.jpg",
-      "alt": "Promo November"
+      "url": "https://files.sitestatic.net/banners/63ddc09484ccb_ULTRA777.jpg",
+      "alt": "Promo Februari Istimewa"
     },
     {
       "url": "https://files.sitestatic.net/banners/61fa77d550ab3_1.png",
