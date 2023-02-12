@@ -1,24 +1,16 @@
 {
   "items": [
     {
-      "url": "http://206.189.83.64/wp-content/uploads/2021/12/banner1.jpg",
-      "alt": ""
+      "url": "https://www.totoking4dai.com/assets/banner/IND/1_20224856114856.jpg",
+      "alt": "BIGWIN Tergacor"
     },
     {
-      "url": "http://206.189.83.64/wp-content/uploads/2021/12/banner2.jpg",
-      "alt": ""
+      "url": "https://www.totoking4dai.com/assets/banner/IND/totoking_20215329115329.jpg",
+      "alt": "Menerima deposit via pulsa"
     },
     {
-      "url": "http://206.189.83.64/wp-content/uploads/2021/12/banner3.jpg",
-      "alt": ""
-    },
-    {
-      "url": "http://206.189.83.64/wp-content/uploads/2021/12/banner4.jpg",
-      "alt": ""
-    },
-    {
-      "url": "http://206.189.83.64/wp-content/uploads/2021/12/banner5.jpg",
-      "alt": ""
+      "url": "https://www.totoking4dai.com/assets/banner/IND/komisi-slot-game_20212508052508.jpg",
+      "alt": "Komisi mingguan main slot"
     }
   ]
 }
