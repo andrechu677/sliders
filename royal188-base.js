@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/438ZKtskUDd9v8bA3tKCDEHltiWGlQgC6fjq2bxX.jpg",
-      "alt": "Promo Merdeka"
+      "url": "https://files.sitestatic.net/banners/ykPmVov4pGrxkvRZ5qIQQz87lLnAhamFbE12sQkF.jpg",
+      "alt": "Withdraw Bulan Ini 550jt"
     },
     {
       "url": "https://files.sitestatic.net/banners/K6RXkTP6v1zLLZsbFFfNLHvrbbjcBtmk94B4wrYm.jpg",
