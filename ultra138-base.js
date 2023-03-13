@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/6364d4420214d_ultra138.jpg",
-      "alt": "Promo November"
+      "url": "https://files.sitestatic.net/banners/6402b8e164715_ultra138.jpg",
+      "alt": "Mariah - Maret Berlimpah Hadiah"
     },
     {
       "url": "https://files.sitestatic.net/banners/61fa7cdb5ac40_1.png",
