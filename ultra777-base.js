@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/63ddc09484ccb_ULTRA777.jpg",
-      "alt": "Promo Februari Istimewa"
+      "url": "https://files.sitestatic.net/banners/6402b84fa7a77_ultra777.jpg",
+      "alt": "Promo Maret Meriah"
     },
     {
       "url": "https://files.sitestatic.net/banners/61fa77d550ab3_1.png",
