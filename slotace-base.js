@@ -1,15 +1,15 @@
 {
 	"items": [
 		{
-					"url": "https://slotace99cc.com/Content/Web/common/images/catch/7d562319516848e3a82fa7a92f16a680.jpg",
-					"alt": "Promo Februari Istimewa"
+					"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/d37816f9b9974acc9ef38499ed32b5ba.jpg",
+					"alt": "Maret Berlimpah Hadiah"
 		},
 		{
-					"url": "https://slotace99cc.com/Content/Web/common/images/catch/af28d5a9cc0b41899aff78bc770c5749.jpg",
+					"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/af28d5a9cc0b41899aff78bc770c5749.jpg",
 					"alt": "Komisi Mingguan terbesar"
         },
 		{
-					"url": "https://slotace99cc.com/Content/Web/common/images/catch/4a2f100a78fb49d3a59fe241208e60f0.jpg",
+					"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/4a2f100a78fb49d3a59fe241208e60f0.jpg",
 					"alt": "Welcome Bonus"
         }
 	]
