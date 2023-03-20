@@ -11,6 +11,9 @@
 		{
 					"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/4a2f100a78fb49d3a59fe241208e60f0.jpg",
 					"alt": "Welcome Bonus"
-        }
+        }, {
+		"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/43cfafb990914decae4deea72c966b0e.jpg",
+		"alt": "Didukung sistem deposit tercepat"
+	}
 	]
 }
