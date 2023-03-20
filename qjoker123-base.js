@@ -1,24 +1,24 @@
 {
 	"items": [
 		{
-					"url": "https://i.imgur.com/LI5uU4P.jpg",
-					"alt": "PROMO PSBB"
+					"url": "https://www.qjoker123co.org/assets/banner/IND/qjoker2_20235507035507.jpg",
+					"alt": "Meriah Maret Melimpah Hadiah"
 		},
 		{
-					"url": "https://i.imgur.com/3LowQVi.jpg",
-					"alt": "WELCOME BONUS 20%"
+					"url": "https://www.qjoker123co.org/assets/banner/IND/KM-RT-OG_20213313093313.jpg",
+					"alt": "Game Populer"
         },
 		{
-					"url": "https://i.imgur.com/d0gH6Ly.jpg",
-					"alt": "MENERIMA DEPOSIT VIA PULSA DAN EMONEY"
+					"url": "https://www.qjoker123co.org/assets/banner/IND/slider-dan-bonus-welcome-bonus-all-games_20212442102442.jpg",
+					"alt": "Welcome bonus 20%"
         },
         {
-					"url": "https://i.imgur.com/YqjKLGB.jpg",
+					"url": "https://www.qjoker123co.org/assets/banner/IND/auto-deposit-slider_20212543102543.jpg",
 					"alt": "MENGGUNAKAN SISTEM AUTO DEPOSIT"
         },
         {
-					"url": "https://i.imgur.com/z8vsFrV.jpg",
-					"alt": "BONUS MEMBER DIBAGIKAN SETIAP MINGGU"
+					"url": "https://www.qjoker123co.org/assets/banner/IND/deposit-via-pulsa_20215315105315.jpg",
+					"alt": "Menerima deposit via pulsa dan emoney"
         }
 	]
 }
