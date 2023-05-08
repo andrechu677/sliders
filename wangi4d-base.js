@@ -1,20 +1,12 @@
 {
   "items": [
     {
-      "url": "https://silverliningplus.com/wp-content/uploads/2021/10/banner1.jpg",
-      "alt": ""
+      "url": "https://img.pay4d.info/slide-m/slidem-megagacor.jpg",
+      "alt": "daily wins slot and casino"
     },
     {
-      "url": "https://silverliningplus.com/wp-content/uploads/2021/10/banner2.jpg",
-      "alt": ""
-    },
-    {
-      "url": "https://silverliningplus.com/wp-content/uploads/2021/10/banner3.jpg",
-      "alt": ""
-    },
-    {
-      "url": "https://silverliningplus.com/wp-content/uploads/2021/10/banner4.jpg",
-      "alt": ""
+      "url": "https://img.pay4d.info/slide-m/slidem-pg2apr.jpg",
+      "alt": "lomba thr harian"
     }
   ]
 }
