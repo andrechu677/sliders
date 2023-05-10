@@ -1,20 +1,16 @@
 {
   "items": [
     {
-      "url": "https://insight-travel.com/wp-content/uploads/2021/10/banner1.jpg",
-      "alt": ""
+      "url": "https://167.71.214.102:9443/images/upload-Slides-20210924023818.jpg",
+      "alt": "Selamat datang di carislot"
     },
     {
-      "url": "https://insight-travel.com/wp-content/uploads/2021/10/banner2.jpg",
-      "alt": ""
+      "url": "https://167.71.214.102:9443/images/upload-Slides-20221203160830.jpg",
+      "alt": "Judi paling murah dengan bonus paling besar"
     },
     {
-      "url": "https://insight-travel.com/wp-content/uploads/2021/10/banner3.jpg",
-      "alt": ""
-    },
-    {
-      "url": "https://insight-travel.com/wp-content/uploads/2021/10/banner4.jpg",
-      "alt": ""
+      "url": "https://167.71.214.102:9443/images/upload-Slides-20220319214619.jpg",
+      "alt": "Promo bonus"
     }
   ]
 }
