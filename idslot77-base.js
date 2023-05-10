@@ -1,20 +1,12 @@
 {
   "items": [
     {
-      "url": "https://onlinetonight.net/wp-content/uploads/2021/10/banner1.jpg",
-      "alt": ""
+      "url": "https://188.166.247.221:9443/images/upload-Slides-20210930025304.jpg",
+      "alt": "Selamat datang di IDSLOT77"
     },
     {
-      "url": "https://onlinetonight.net/wp-content/uploads/2021/10/banner2.jpg",
-      "alt": ""
-    },
-    {
-      "url": "https://onlinetonight.net/wp-content/uploads/2021/10/banner3.jpg",
-      "alt": ""
-    },
-    {
-      "url": "https://onlinetonight.net/wp-content/uploads/2021/10/banner4.jpg",
-      "alt": ""
+      "url": "https://188.166.247.221:9443/images/upload-Slides-20210930025346.jpg",
+      "alt": "Judi paling murah dengan bonus paling besar"
     }
   ]
 }
