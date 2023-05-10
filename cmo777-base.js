@@ -1,16 +1,16 @@
 {
 	"items": [
 		{
-					"url": "http://cmo777.com/images/upload-Slides-20220227171929.jpg",
-					"alt": "Deposit mulai dari sepuluh ribu"
+					"url": "https://xn--777-wk4bpiuf.xn--tckwe/images/upload-Slides-20221005192437.jpg",
+					"alt": "Bonus new member 100%"
 		},
 		{
-					"url": "http://cmo777.com/images/upload-Slides-20220227171946.jpg",
-					"alt": "Promo bonus khusus semua member"
+					"url": "https://xn--777-wk4bpiuf.xn--tckwe/images/upload-Slides-20230222131022.jpg",
+					"alt": "Situs judi slot gacor terbaru terpercaya"
         },
 		{
-					"url": "http://cmo777.com/images/upload-Slides-20220227171956.jpg",
-					"alt": "Bonus rolling slot dan tembak ikan"
+					"url": "https://img.pay4d.info/banner/slide-pp-nv.jpg",
+					"alt": "Total hadiah 75 miliar pragmatic play"
         }
 	]
 }
