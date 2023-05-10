@@ -1,28 +1,16 @@
 {
   "items": [
     {
-      "url": "http://185.39.137.110/wp-content/uploads/2021/10/banner1.jpg",
-      "alt": ""
+      "url": "https://pantaislot.cc/images/upload-Slides-20210617151059.jpg",
+      "alt": "Situs betting terbaik"
     },
     {
-      "url": "http://185.39.137.110/wp-content/uploads/2021/10/banner2.jpg",
-      "alt": ""
+      "url": "https://img.pay4d.info/banner/slide-pp-nv.jpg",
+      "alt": "Pragmatic Play 75 Miliar"
     },
     {
-      "url": "http://185.39.137.110/wp-content/uploads/2021/10/banner3.jpg",
-      "alt": ""
-    },
-    {
-      "url": "http://185.39.137.110/wp-content/uploads/2021/10/banner4.jpg",
-      "alt": ""
-    },
-    {
-      "url": "http://185.39.137.110/wp-content/uploads/2021/10/banner5.jpg",
-      "alt": ""
-    },
-    {
-      "url": "http://185.39.137.110/wp-content/uploads/2021/10/banner6.jpg",
-      "alt": ""
+      "url": "https://img.pay4d.info/banner/banner-pg-lebaran.jpg",
+      "alt": "Lomba THR Harian"
     }
   ]
 }
