@@ -1,20 +1,16 @@
 {
   "items": [
     {
-      "url": "https://sgacdn.azureedge.net/agent-websites/27/medialibrary/images/27_be9fa66a4f3d4cb4a0627e1fc8655339.jpg",
-      "alt": "Situs official resmi dan terpercaya betting piala dunia qatar"
+      "url": "https://sgacdn.azureedge.net/agent-websites/27/medialibrary/images/27_efa57cf34adc45188a73fe142e28e956.jpg",
+      "alt": "mini turnamen spesial khusus slot"
     },
     {
       "url": "https://sgacdn.azureedge.net/agent-websites/27/medialibrary/images/27_c1185602f4dd482ebc159822ac185b8e.jpg",
       "alt": "Situs permainan online terbaik boneka88"
     },
     {
-      "url": "https://sgacdn.azureedge.net/agent-websites/27/medialibrary/images/27_7f9f64d3ea89489f82c92c906c93cb84.jpg",
-      "alt": "spin score cash drop"
-    },
-    {
-      "url": "https://sgacdn.azureedge.net/agent-websites/27/medialibrary/images/27_ce1f1fddbc2f4be486474709666157c1.png",
-      "alt": "menang setiap hari bermain slot & live casino"
+      "url": "https://sgacdn.azureedge.net/agent-websites/27/medialibrary/images/27_87ac1fbd61204c1f812504a030184a9b.jpg",
+      "alt": "transaksi mudah dan cepat"
     }
   ]
 }
