@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/6402b6f1be6a9_ultrajp.jpg",
-      "alt": "Promo Maret Meriah"
+      "url": "https://files.sitestatic.net/banners/64f725873676d_slider-100.jpg",
+      "alt": ""
     },
     {
-      "url": "https://files.sitestatic.net/banners/62eba8d772f53_ultrajpslider.jpg",
+      "url": "https://files.sitestatic.net/banners/64f725fc46206_slider-deposit.jpg",
       "alt": "Welcome bonus slot"
     },
     {
-      "url": "https://files.sitestatic.net/banners/62a7087be6060_14%20(1).jpg",
-      "alt": "Menerima Deposit Pulsa ewallet dan bank transfer"
+      "url": "https://files.sitestatic.net/banners/64f72622e7338_slider--cashback.jpg",
+      "alt": ""
     }
   ]
 }
