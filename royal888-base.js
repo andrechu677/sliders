@@ -1,19 +1,15 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/H5GrbFfshB86ato7g0QhY02Ao1UKnKMk44KFqihz.jpeg",
-      "alt": "Joker Gaming"
+      "url": "https://files.sitestatic.net/banners/mAjucjX15Uw2gRQNg2DFxCJlJoQqL9jykktpcTrc.jpeg",
+      "alt": "welcome bonus slot 100%"
     },
     {
-      "url": "https://files.sitestatic.net/banners/1611748760_sliding-3.jpg",
-      "alt": "Sistem Deposit Tercepat"
+      "url": "https://files.sitestatic.net/banners/qvAv2EwKDsHYUalhXQ6FYrekrVY9YWmMP0DyxXdk.jpeg",
+      "alt": "bonus cashback mingguan"
     },
     {
-      "url": "https://files.sitestatic.net/banners/1611918491_sliding-4.jpg",
-      "alt": "Selamat Datang di Royal888"
-    },
-    {
-      "url": "https://files.sitestatic.net/banners/7Aw3YCibADlwrVaAqIoXK8bcBNys4FxezkcKfhZt.jpeg",
+      "url": "https://files.sitestatic.net/banners/LYK8FA7yXMJoa268KYdihvDgcXKSxdW7qwKQSMiO.jpeg",
       "alt": "Komisi Dibagikan Setiap Hari"
     }
   ]
