@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "url": "https://files.sitestatic.net/banners/6402b8e164715_ultra138.jpg",
-      "alt": "Mariah - Maret Berlimpah Hadiah"
+      "url": "https://files.sitestatic.net/banners/62eb9e256fcfe_ultra138.jpg",
+      "alt": "welcome bonus slot 100%"
     },
     {
-      "url": "https://files.sitestatic.net/banners/61fa7cdb5ac40_1.png",
-      "alt": "Menerima deposit via pulsa"
+      "url": "https://files.sitestatic.net/banners/64f721acc0a2f_MOBILE-50.jpg",
+      "alt": "welcome bonus slot 50%"
     },
     {
-      "url": "https://files.sitestatic.net/banners/62eb9e2509b36_welcome.png",
-      "alt": "Bonus slot 100%"
+      "url": "https://files.sitestatic.net/banners/64f721cfe4287_MOBILE-CASHBACK.jpg",
+      "alt": "Bonus cashback mingguan 10%"
     }
   ]
 }
