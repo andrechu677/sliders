@@ -1,16 +1,12 @@
 {
 	"items": [
 		{
-					"url": "https://i.imgur.com/fpujEi0.png",
-					"alt": "Grand Jackpoy"
+					"url": "hhttps://dl.dlyetian.com/images/web/assets//v1.3/themes/jk/images/banner/wild-protectors/bg_id.jpg",
+					"alt": ""
 		},
 		{
-					"url": "https://i.imgur.com/gV8iJWu.png",
-					"alt": "Free Spin for Real Money"
-        },
-		{
-					"url": "https://i.imgur.com/jzTrZhz.png",
-					"alt": "Power Play"
+					"url": "https://dl.dlyetian.com/images/web/assets//v1.3/themes/jk/images/banner/wild-fairies/bg_id.jpg",
+					"alt": ""
         }
 	]
 }

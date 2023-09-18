@@ -1,14 +1,6 @@
 {
 	"items": [
 		{
-					"url": "https://i.imgur.com/Xvw56RJ.jpg",
-					"alt": "Menerima Deposit Via Pulsa dan Emoney"
-		},
-		{
-					"url": "https://i.imgur.com/wFiUp2g.jpg",
-					"alt": "Promo PSBB"
-        },
-		{
 					"url": "https://media.fastchecker.us/idnsmedia/is/slots-v3/promotions/desktop/psdesktop.webp",
 					"alt": ""
         },
