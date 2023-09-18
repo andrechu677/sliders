@@ -1,15 +1,15 @@
 {
 	"items": [
 		{
-					"url": "https://qqroyalco.com/Content/Web/common/images/catch/d3a0b12928a04c50baaf849ceb1e95f3.jpg",
-					"alt": "Promo Kemerdekaan"
+					"url": "https://qqroyalai.com/asset/mobile/images/banner/599c1853f59740328a162fdcf6e0d49c.jpg",
+					"alt": "Dukungan sistem auto deposit"
 		},
 		{
-					"url": "https://qqroyalco.com/Content/Web/common/images/catch/a2019a292ae148d78dc96ad3020c1a78.jpg",
-					"alt": "Rebate Komisi Mingguan"
+					"url": "https://qqroyalai.com/asset/mobile/images/banner/a258d28cf1814d1095871fe3ffec8563.jpg",
+					"alt": "Minimal deposit 10rb"
         },
 		{
-					"url": "https://qqroyalco.com/Content/Web/common/images/catch/790428118a0942fbb879fbed592b9f62.jpg",
+					"url": "https://qqroyalai.com/asset/mobile/images/banner/5a5589902512462eaeb3b57dca4d3a3b.jpg",
 					"alt": "Komisi setiap minggu dari qqroyal. Paling banyak bonusnya"
         }
 	]
