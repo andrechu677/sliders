@@ -1,19 +1,16 @@
 {
 	"items": [
 		{
-					"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/d37816f9b9974acc9ef38499ed32b5ba.jpg",
-					"alt": "Maret Berlimpah Hadiah"
+					"url": "https://slotace99to.org/asset/mobile/images/banner/b113ae7956e8486c81a97132f6a710a7.jpg",
+					"alt": "Pengumuman, hati hati penipuan yang mengatasnamakan slotace99"
 		},
 		{
-					"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/af28d5a9cc0b41899aff78bc770c5749.jpg",
-					"alt": "Komisi Mingguan terbesar"
+					"url": "https://slotace99to.org/asset/mobile/images/banner/7fa08a1681ae437d90c762ce0043b991.jpg",
+					"alt": "menerima deposit minimal 10k"
         },
 		{
-					"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/4a2f100a78fb49d3a59fe241208e60f0.jpg",
+					"url": "https://slotace99to.org/asset/mobile/images/banner/d22cde037f984080b69d9a1847d9149b.jpg",
 					"alt": "Welcome Bonus"
-        }, {
-		"url": "https://13.214.69.238:20365/Content/Web/common/images/catch/43cfafb990914decae4deea72c966b0e.jpg",
-		"alt": "Didukung sistem deposit tercepat"
-	}
+        }
 	]
 }
