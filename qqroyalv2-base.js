@@ -1,10 +1,6 @@
 {
 	"items": [
 		{
-					"url": "https://qqroyalai.com/asset/mobile/images/banner/599c1853f59740328a162fdcf6e0d49c.jpg",
-					"alt": "Dukungan sistem auto deposit"
-		},
-		{
 					"url": "https://qqroyalai.com/asset/mobile/images/banner/a258d28cf1814d1095871fe3ffec8563.jpg",
 					"alt": "Minimal deposit 10rb"
         },
