@@ -16,9 +16,5 @@
 					"url": "https://www.royalkingac.com/assets/banner/IND/cashback-mingguan%20ayam%20ikan_20210753080753.jpg",
 					"alt": "bonus cashback mingguan"
         }
-        {
-					"url": "https://www.royalkingac.com/assets/banner/IND/royalking4d_20215947115947.jpg",
-					"alt": "Menerima deposit via pulsa dan ewallet"
-        }
 	]
 }
