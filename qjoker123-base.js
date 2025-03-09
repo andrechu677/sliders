@@ -1,24 +1,12 @@
 {
 	"items": [
 		{
-					"url": "https://www.qjoker123to.org/assets/banner/IND/KM-RT-OG_20213313093313.jpg",
+					"url": "https://www.qjoker123td.com/assets/banner/IND/PP_5Star5LionsMegaways2_20250208_20250503140503.webp?V=1739023507",
 					"alt": ""
 		},
 		{
-					"url": "https://www.qjoker123to.org/assets/banner/IND/slider-dan-bonus-welcome-bonus-all-games_20212442102442.jpg",
+					"url": "https://www.qjoker123td.com/assets/banner/IND/QJOKER123_20230332080332.jpg?V=1697011420",
 					"alt": "welcome bonus all game"
-        },
-		{
-					"url": "https://www.qjoker123to.org/assets/banner/IND/PP_MahjongWins_20234943084943.jpg?V=1693324190",
-					"alt": ""
-        },
-        {
-					"url": "https://www.qjoker123to.org/assets/banner/IND/auto-deposit-slider_20212543102543.jpg",
-					"alt": "MENGGUNAKAN SISTEM AUTO DEPOSIT"
-        },
-        {
-					"url": "https://www.qjoker123to.org/assets/banner/IND/deposit-via-pulsa_20215315105315.jpg",
-					"alt": "Menerima deposit via pulsa dan emoney"
         }
 	]
 }
