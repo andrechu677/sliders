@@ -1,12 +1,8 @@
 {
   "items": [
     {
-      "url": "https://img.pay4d.info/slide-m/slidem-megagacor.jpg",
-      "alt": "daily wins slot and casino"
-    },
-    {
-      "url": "https://img.pay4d.info/slide-m/slidem-pg2apr.jpg",
-      "alt": "lomba thr harian"
+      "url": "https://wangi4dhoki.wiki/images/upload-MobileSlides-20231111142034.jpg",
+      "alt": "akses situs wangi4d"
     }
   ]
 }
