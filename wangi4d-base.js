@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "url": "https://wangi4dhoki.wiki/images/upload-MobileSlides-20231111142034.jpg",
-      "alt": "akses situs wangi4d"
+      "url": "https://wangi4dhoki.wiki/images/upload-Slides-20210916184124.jpg",
+      "alt": "bonus paling besar"
     }
   ]
 }
