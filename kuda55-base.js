@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "url": "https://kuda55max.org/images/upload-MobileSlides-20231121084221.jpg",
-      "alt": "AKSES MUDAH KUDA55"
+      "url": "https://kuda55a.me/images/upload-Slides-20220603114551.jpg",
+      "alt": "KUDA55"
     }
   ]
 }
