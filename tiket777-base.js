@@ -1,12 +1,8 @@
 {
   "items": [
     {
-      "url": "https://img.pay4d.info/slide-m/slidem-megagacor.jpg",
-      "alt": "daily wins slot and casino"
-    },
-    {
-      "url": "https://img.pay4d.info/slide-m/slidem-pg2apr.jpg",
-      "alt": "lomba thr harian"
+      "url": "https://tiket777a.site/images/upload-Slides-20220120212840.jpg",
+      "alt": "selamat datang di tiket777"
     }
   ]
 }
